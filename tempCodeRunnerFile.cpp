@@ -1,0 +1,1 @@
+minimun number is:
