@@ -1,1 +1,0 @@
-minimun number is:
